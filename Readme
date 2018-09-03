@@ -1,0 +1,17 @@
+The codes in cryst_F and cryst_F_initialEQ will be merged.
+For now use the latter to generate good input profiles for the former or test equilibrium.
+DESCRIPTION
+
+
+
+
+INSTRUCTIONS TO COMPILE
+
+
+
+
+
+
+
+
+EXAMPLARY INPUT FILES
